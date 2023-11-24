@@ -1,0 +1,9 @@
+.DS_Store
+code/node_modules/
+code/coverage/
+code/data/
+code/.vscode
+out/
+code/.env
+code/package-lock.json
+code/package.json
